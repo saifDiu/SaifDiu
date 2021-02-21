@@ -11,4 +11,12 @@ Here are some things related to me:
 - 😄 Pronouns: As you wish 😄
 - ⚡ Fun fact: You have visited my profile 😄
 
-  ![Saif Islam's Github Stats](https://github-readme-stats.vercel.app/api?username=saifDiu&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+  ### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/AVS1508">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=saifDiu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saifDiu&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
