@@ -1,5 +1,5 @@
 ### Hi there, I am Saif 👋
-
+<div align="center">
 Here are some things related to me:
 
 - 🔭 I’m currently working on .. Python, Odoo
@@ -10,7 +10,7 @@ Here are some things related to me:
 - 📫 How to reach me: .. saifislam.swe@gmail.com
 - 😄 Pronouns: As you wish 😄
 - ⚡ Fun fact: You have visited my profile 😄
-
+</div>
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
