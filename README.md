@@ -11,7 +11,7 @@ Here are some things related to me:
 - 😄 Pronouns: As you wish 😄
 - ⚡ Fun fact: You have visited my profile 😄
 
-  ### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 <a href="https://github.com/AVS1508">
